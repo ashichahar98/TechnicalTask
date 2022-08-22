@@ -8,3 +8,4 @@ whenever ull enter the details it will add them and i have also given the edit a
 ![WhatsApp Image 2022-08-19 at 11 05 43 AM (2)](https://user-images.githubusercontent.com/66356859/185550407-b139c7a6-f26a-4f25-b203-312a694f2e96.jpeg)
 ![WhatsApp Image 2022-08-19 at 11 05 43 AM (1)](https://user-images.githubusercontent.com/66356859/185550412-6ca00f02-d836-42b6-87fc-4ba7aa63db0f.jpeg)
 ![WhatsApp Image 2022-08-19 at 11 05 43 AM](https://user-images.githubusercontent.com/66356859/185550419-90acdd6c-87ba-4185-9c03-ffd331b5b2e6.jpeg)
+
